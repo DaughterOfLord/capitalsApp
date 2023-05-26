@@ -1,5 +1,5 @@
 /* Write your CSS here */
-.bg-container {
+.app-container {
   background-color: #93c5fd;
   font-family: 'Roboto';
   background-size: cover;
@@ -10,7 +10,7 @@
   flex-direction: column;
 }
 
-.card-container {
+.capitals-container {
   background-color: #f8fafc;
   height: 37vh;
   width: 48vw;
@@ -62,4 +62,12 @@
   font-size: 25px;
   font-weight: 500;
   text-align: left;
+}
+
+.option {
+  color: #323f4b;
+  font-size: 15px;
+  text-align: center;
+  padding: 2px;
+  margin: auto;
 }
